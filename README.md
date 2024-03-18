@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **s.deinegri2@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/stephane-dn](www.linkedin.com/in/stephane-dn)
+- 📄 Know about my experiences [www.linkedin.com/in/stephane-dn](href="www.linkedin.com/in/stephane-dn")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
