@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/stephane-dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephane dei-negri" height="30" width="40" /></a>
-<a href="https://www.codepen.io/SDN33" target="blank"><img align="center" src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="CodePen Logo as SVG" height="30" width="40" /></a>
+<a href="https://www.codepen.io/SDN33" target="blank"><img align="center" src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="CodePen Logo as SVG" height="30" width="40" color="white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
