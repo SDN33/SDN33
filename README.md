@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **s.deinegri2@gmail.com**
 
-- 📄 Know about my experiences <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=stephane-dn" target="_blank">Follow on LinkedIn</a>
+- 📄 Know about my experiences <a class="libutton" href="https://www.linkedin.com/in/stephane-dn" target="_blank">LinkedIn</a>
   
 - 👨🏻‍💻 Check out my portfolio www.troopl.com/sdn
   
