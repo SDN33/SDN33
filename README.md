@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences <a class="libutton" href="https://www.linkedin.com/in/stephane-dn" target="_blank">LinkedIn</a>
   
-- 👨🏻‍💻 Check out my portfolio <a class="pobutton" href="https://pfsdn-ba58e6ba6e38.herokuapp.com" target="_blank">SDN Portfolio</a>
+- 👨🏻‍💻 Check out my portfolio <a class="pobutton" href="https://stephanedn.com" target="_blank">SDN Portfolio</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
