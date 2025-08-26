@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **s.deinegri2@gmail.com**
 
-- 📄 Know about my experiences <a class="libutton" href="https://www.linkedin.com/in/stephane-dn" target="_blank">LinkedIn</a>
+- 📄 Know about my experiences <a class="libutton" href="https://www.linkedin.com/in/st%C3%A9phane-dei-negri-3287b1375" target="_blank">LinkedIn</a>
   
 - 👨🏻‍💻 Check out my agency website <a class="pobutton" href="https://www.stillinov.com/" target="_blank">Still-inov Agency</a>
   
